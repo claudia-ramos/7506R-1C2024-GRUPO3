@@ -1,3 +1,13 @@
-# 7506R-1C2024-GRUPO3
+# TP1 : {Propiedades en venta} 
 
 Trabajo Práctico número 1 de la materia de Organización de Datos de FIUBA.
+
+## Grupo {3}
+
+* **Integrante 1** - [Contreras Villaroel, Ricardo Luis]()
+* **Integrante 2** - [Vernieri, Anita]()
+* **Integrante 3** - [Iglesias Tripodi, Adriana Macarena]()
+* **Integrante 4** - [Claudia Ramos Sarzuri](https://github.com/claudia-ramos)
+
+  
+
