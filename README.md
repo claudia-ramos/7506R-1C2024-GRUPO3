@@ -10,6 +10,7 @@ Trabajo Práctico número 1 de la materia de Organización de Datos de FIUBA.
 
 
 Link del notebook: [Notebook](https://colab.research.google.com/drive/1tapP9uLAbfXvfuFbaDh_MPIzokBZAJR-?usp=sharing)
+Link del report: [Reporte](https://docs.google.com/document/d/1lwTsQH_bivdlcxMvMPPtR9nn1ZjunhkyLH8eeJ_uATk/edit?pli=1)
 
   
 
