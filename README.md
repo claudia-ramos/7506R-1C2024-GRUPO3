@@ -13,6 +13,7 @@ Links a las notebooks: [Notebook 1](https://colab.research.google.com/drive/1tap
                        [Notebook 2](https://colab.research.google.com/drive/1jPxa7j47-NAJ1vwKSwHcSW6wu2iJYuHi?usp=sharing)
 
 Link del reporte del Checkpoint 1: [Reporte](https://docs.google.com/document/d/1lwTsQH_bivdlcxMvMPPtR9nn1ZjunhkyLH8eeJ_uATk/edit?pli=1)
+
 Link del reporte del Checkpoint 2: [Reporte](https://docs.google.com/document/d/1LgGvYrHYqMPq_vXkMAtONWvfDbSUz-GZIJCuXWzN8T0/edit?usp=sharing)
 
   
